@@ -1,3 +1,31 @@
+## Acebook - Off The Rails React Frontend
+
+This is the front end for our Facebook clone project following a chnage to 
+(https://github.com/davmcgregor/acebook-off-the-rails) - made using React.
+
+## Instructions for Use
+
+First make a copy of this repo:
+
+```
+	git clone https://github.com/davmcgregor/acebook-off-the-rails
+```
+
+Then cd into the directory and run:
+
+```
+	npm install
+```
+
+And then:
+
+```
+	npm start
+```
+
+There is still a fair bit of work to be done here optimising etc.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
